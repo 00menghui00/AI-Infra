@@ -15,3 +15,5 @@ smolagents中有一个codeagent类（ https://huggingface.co/blog/smolagents#cod
 ---
 
 ## tools
+
+- 沙盒环境无法直接访问本地数据，可以将本地数据封装到tool中作为一个接口供沙盒环境访问（当执行程序需要本地数据支持时可以这样操作）
