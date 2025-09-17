@@ -2,6 +2,7 @@
 
 
 # smolagents
+https://smolagents.org/zh/docs/tools-of-smolagents-in-depth-guide/
 - 模型资源：在huggingface中建一个token，使用codeagent时用该token，可以免费使用开源编码模型
 
 
